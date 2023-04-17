@@ -1,0 +1,10 @@
+body{
+  padding: 50px;
+  padding-bottom: 500px;
+  background-color: rgb(170, 250, 138);
+}
+
+h1{
+  color: red;
+  font-family: Luminari, fantasy;
+}
